@@ -3,7 +3,7 @@
 **Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har lavet der, der der credits i bunden af selve hjemmesiden.**
 
 
-## Sådan downloader du det...
+## Sådan downloader/ sætter du det op
 - download via github, hvis du "git clone" kan du med forddel bruge det.
 Derefter åbner du config.cpp hvor du skal sætte **DINE** database oplysninger ind!
 
