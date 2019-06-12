@@ -1,7 +1,7 @@
 # kriminalregister
 kriminalregister 
 
-![alt text](http://dangate.dk/wp-content/uploads/2018/02/politi.png)
+![alt text](http://dangate.dk/wp-content/uploads/2018/02/politi.png width=250 height=250)
 
 Guide til kriminalregister 
 
