@@ -1,6 +1,6 @@
-Guide til kriminalregister 
+**Guide til kriminalregister** 
 
-Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har lavet der, der der credits i bunden af selve hjemmesiden.
+**Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har lavet der, der der credits i bunden af selve hjemmesiden.**
 
 
 ## Sådan downloader du det...
