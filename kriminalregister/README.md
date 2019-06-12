@@ -5,7 +5,7 @@ Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har
 
 ## Sådan downloader du det...
 - download via github, hvis du "git clone" kan du med forddel bruge det.
-Derefter åbner du config.cpp hvor du skal sætte DINE database oplysninger ind!
+Derefter åbner du config.cpp hvor du skal sætte **DINE** database oplysninger ind!
 
 ```
 $username = "police-portal"; // Brugernavn
