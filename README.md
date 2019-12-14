@@ -17,7 +17,7 @@ $namebase = "police"; // Navnet på databasen.
 ```
 - Importer `databse.sql` filen til din database! jeg bruger selv heidisql som program.
 - Upload filerne til dit website og gå ind på  `http://yoursite.com/signup.php` der kan du oprette en account.
-- Når du har lavet en account så omdøb  `signup.php`  til noget andre ikke skal have afvide så andre ikke kan lave kontorer!
+- Når du har lavet en account så omdøb  `signup.php`  Til noget der er hemmeligt, så kan andre ikke gå ind og oprette kontoer. 
 - FÆRDIG!
 
 - Kontakt mig på discord Valdemar#1732 hvis du evt har brug for hjælp.
