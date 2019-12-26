@@ -22,7 +22,7 @@ $hostname = "localhost"; // host ip
 $namebase = "police"; // Navnet på databasen.
 ```
 - Importer `databse.sql` filen til din database! jeg bruger selv heidisql som program.
-- Upload filerne til dit website og gå ind på  `http://yoursite.com/signup.php` der kan du oprette en account.
+- Upload filerne til dit website og gå ind på  `localhost/signup.php` der kan du oprette en account.bemærk dette er hvis du kører localhost. Hvis du kører det på en Dedicated, og vil connecter fra din egen computer, så skriver du: jeresip/signup.php, når det er første gang du skal logge ind.
 - Når du har lavet en account så omdøb  `signup.php`  Til noget der er hemmeligt, så kan andre ikke gå ind og oprette kontoer. 
 - FÆRDIG!
 
