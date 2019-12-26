@@ -4,9 +4,9 @@ Guide til kriminalregister
 
 Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har lavet der, der der credits i bunden af selve hjemmesiden.
 
-##HUSK AT HAVE JERES XAAMP KLAR
+##HUSK AT HAVE JERES XAMPP KLAR
 
-Der vil komme en update hvor jeg forklare hvordan du sætter det op i xaamp. ELLERS BRUG GOOGLE IKKE SÅ SVÆRT.
+Der vil komme en update hvor jeg forklare hvordan du sætter det op i xampp. ELLERS BRUG GOOGLE IKKE SÅ SVÆRT.
 
 
 ## Sådan downloader du det...
