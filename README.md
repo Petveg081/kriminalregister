@@ -9,6 +9,8 @@ Dette er et kriminalregister jeg har oversat om i det er altså ikke mig der har
 Der vil komme en update hvor jeg forklare hvordan du sætter det op i xampp. ELLERS BRUG GOOGLE IKKE SÅ SVÆRT.
 
 
+Du skal have MySql og apache startet i din xampp
+
 ## Sådan downloader du det...
 - download via github, hvis du hat "git clone" kan du med forddel bruge det.
 Derefter åbner du config.cpp hvor du skal sætte DINE database oplysninger ind!
