@@ -4,8 +4,8 @@
 
 
 ## Sådan downloader/ sætter du det op
-- download via github, hvis du "git clone" kan du med forddel bruge det.
-Derefter åbner du config.cpp hvor du skal sætte **DINE** database oplysninger ind!
+- download via github, hvis du har "git" kan du med forddel bruge det.
+Derefter åbner du config.php hvor du skal sætte **DINE** database oplysninger ind!
 
 ```
 $username = "police-portal"; // Brugernavn
